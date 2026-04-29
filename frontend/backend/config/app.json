@@ -1,0 +1,7 @@
+{
+  "entity": "task",
+  "fields": [
+    { "name": "title", "type": "text" },
+    { "name": "status", "type": "text" }
+  ]
+}
